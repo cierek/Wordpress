@@ -3,7 +3,7 @@
 # Script for installing Wordpress on Ubuntu 20.04 (other versions could work too)
 # Author: Piotr Cierkosz
 #-------------------------------------------------------------------------------
-# This script will install Wordpress on your Ubuntu 20.04 server. It can install multiple Odoo instances
+# This script will install Wordpress on your Ubuntu 20.04 server
 ################################################################################
 
 #-------------------------------------------------
