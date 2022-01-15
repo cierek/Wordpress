@@ -29,3 +29,12 @@ sudo chmod +x wordpress_install.sh
 ```
 sudo ./wordpress_install.sh
 ```
+
+
+## Worth to read
+
+https://wordpress.org/ - Wordpress official Page
+
+https://ubuntu.com/tutorials/install-and-configure-wordpress#1-overview - Wordpress installation process by Canonical 
+
+https://github.com/Yenthe666/InstallScript - Yenthe's installation script for Odoo ERP (when Wordpress is not enough). Script in here was actually inspired by Yenthe's work which helped thousands of people worlwide to install Odoo
